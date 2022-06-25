@@ -2,8 +2,4 @@
 
 ## Here I have done explory data analysis on Bank data. The full results are posted below. This project was completed by me based on my IBM guided project.
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[embed]"https://docs.google.com/document/d/e/2PACX-1vTHys_xe9II_NTVJEnFJdtLE4mq93Y-Syk20Ze45AzRkoCJAch-WIsJ2C5eh3jN6bsaXa-t2m0Q7YMI/pub?embedded=true"[/embed]
